@@ -1,0 +1,46 @@
+body, html {
+    height: 100%;
+    background-image: url("../images/gts.jpg");
+    background-position: center center;
+    /* background-repeat:  no-repeat; */
+    background-attachment: fixed;
+    background-size:  cover;
+    background-color: transparent;
+}
+.container{
+    max-width: 1200px;
+    float: center;
+    margin: auto;
+    padding-top: 4%;
+    
+} 
+
+header{
+    padding-top: 3rem;
+    text-align: center;
+    color: #00ff00;
+}
+
+.is-4{
+    text-align: center;
+}
+
+.title {
+    color: #00ff00;
+    font-size: 8rem;
+}
+
+.column {
+    text-align: center;
+    font-size: 3rem;
+    
+}
+
+.column p {
+    color: #00ff00;
+}
+
+.border {
+    border-right: 1px solid #00ff00; 
+    border-left: 1px solid #00ff00;
+}
